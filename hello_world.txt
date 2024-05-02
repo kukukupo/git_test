@@ -1,1 +1,2 @@
 Hello GitHub!
+Now I can use this text editor and write a second line!
